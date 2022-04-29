@@ -31,3 +31,4 @@ From Api folder, you can run `mongo "mongodb+srv://cluster.yxyis.mongodb.net/inv
 To check for lint issues, go to Api and Ui folder and run `npm run lint` to get the linting issues in the respective folders.
 "# Inventory-Management-System" 
 # Inventory-Management-System
+# Inventory-Management-System
